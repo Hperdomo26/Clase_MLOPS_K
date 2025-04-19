@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/familiaperdomobocachica2/Documentos%20MAC/Clase_MLOPS_K/Proyecto_1/Notebook/mlruns/172754613687939648/4851d8bb45b54f62a533cd8dc1c6ec2b/artifacts
+end_time: 1744331257285
+entry_point_name: ''
+experiment_id: '172754613687939648'
+lifecycle_stage: active
+run_id: 4851d8bb45b54f62a533cd8dc1c6ec2b
+run_name: Random Forest
+run_uuid: 4851d8bb45b54f62a533cd8dc1c6ec2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744331255035
+status: 3
+tags: []
+user_id: familiaperdomobocachica2
